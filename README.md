@@ -2,7 +2,7 @@
 Salary payment calculation application.
 
 # How to run:
-To run the application, in the command prompt type ``` npm run ```
+To run the application, in the command prompt type ``` npm start ```
 
 To run the test, in the command prompt type ``` npm test ```
   
