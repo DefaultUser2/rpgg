@@ -1,0 +1,20 @@
+{
+  "name": "rpgg",
+  "version": "1.0.0",
+  "description": "Salary calculation for fictional company",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha",
+	"start":"node app.js"
+  },
+  "author": "H Diesel",
+  "license": "ISC"
+}
