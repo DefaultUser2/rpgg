@@ -2,9 +2,19 @@
 Salary payment calculation application.
 
 # How to run:
-To run the application, in the command prompt type ``` npm start ```
 
-To run the test, in the command prompt type ``` npm test ```
+The application can be run as a standalone using only the app.js file.
+
+- Download or clone the app.js file to your local machine.
+- Open a command prompt window at its localtion.
+- In the command prompt type ``` node app.js ``` to run.
+
+If you want to run the application with testing, please follow the steps below.
+
+- Clone the repository to your local machine
+- To install the node modules, run ``` npm install ``` in the command prompt in the cloned directory.
+- To run the application, in the command prompt type ``` npm start ```
+- To run the test, in the command prompt type ``` npm test ```
   
 ## Exercise instructions:
 ### The Burroughs Test 
